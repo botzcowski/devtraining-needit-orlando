@@ -71,10 +71,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>de0fe2a11b6d1010307cff37dc4bcb46</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-22 01:19:26</sys_updated_on>
-            <value>your_ department choice</value>
+            <sys_updated_on>2020-06-22 02:25:36</sys_updated_on>
+            <value>your_department_choice</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_request_type</element>
